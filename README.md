@@ -191,10 +191,11 @@ open coverage/html/index.html
 - 🔴 **Transport** : -8 500 XAF
 
 ---
-
+![Dashboard](screenshots/login.png)
 ![Dashboard](screenshots/dashboard.png)
-![Virement](screenshots/transfert.png)
-![Transactions](screenshots/historique.png)
+![Virement](screenshots/virement.png)
+![Transactions](screenshots/transactions.png)
+![Transactions](screenshots/transactions2.png)
 
 ## 🎨 **Design System**
 
