@@ -6,8 +6,3 @@ void main() {
   runApp(const AfricBankingApp());
 }
 
-
-
-
-
-
